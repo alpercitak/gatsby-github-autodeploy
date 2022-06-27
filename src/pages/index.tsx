@@ -71,6 +71,11 @@ const docLinks = [
     text: "GraphQL Typegen Documentation",
     url: "https://www.gatsbyjs.com/docs/how-to/local-development/graphql-typegen/",
     color: "#8954A8",
+  },
+  {
+    text: "Source Code",
+    url: "https://github.com/alpercitak/gatsby-github-autodeploy/",
+    color: "#8954A8",
   }
 ]
 
