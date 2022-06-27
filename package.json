@@ -2,8 +2,11 @@
   "name": "gatsby-github-autodeploy",
   "version": "1.0.0",
   "private": true,
-  "description": "gatsby-github-autodeploy",
+  "description": "Gatsby auto deploy to Github Pages",
   "author": "Alper Çıtak",
+  "main": "index.js",
+  "repository": "https://github.com/alpercitak/gatsby-github-autodeploy.git",
+  "license": "MIT",
   "keywords": [
     "gatsby"
   ],
